@@ -8,7 +8,6 @@
 <h1>Lock in Song</h1>
 
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/0NdTUS4UiNYCNn5FgVqKQY?si=d63a0882f5e3498a)
 
 <img src="https://myreadme.vercel.app/api/embed/Andrewslayton?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
