@@ -1,6 +1,3 @@
-## Hi there 👋
-# Hi there, I'm Andrew Slayton 👋
-
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Andrewslayton.Andrewslayton)
 
 ![Andrew Slayton's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrewslayton&show_icons=true&theme=radical)
