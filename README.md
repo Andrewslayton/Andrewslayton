@@ -5,7 +5,6 @@
 |--------------|--------------|--------------|
 | I'm a Computer science major attending Grand Valley state University. | I like being able to build without limits where any idea is possible.   | I enjoy web development the most as well as random small applications I come up with on the fly, many of those being discord bots to enhance quality of life.  |
 
-<h1>Lock in Song</h1>
 
 
 
