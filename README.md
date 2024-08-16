@@ -1,15 +1,13 @@
-![GitHub Streak](https://streak-stats.demolab.com/?user=Andrewslayton&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrewslayton&layout=compact&theme=radical)
+<img src="https://myreadme.vercel.app/api/embed/Andrewslayton?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-## 📫 How to reach me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrew%20Slayton-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/andrewslayton](https://www.linkedin.com/in/andrew-slayton03/))
-
+<a href="https://www.linkedin.com/in/andrew-slayton03/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/slayton_a/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https:/andrewslayton.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Website?"></a>
 <!--
 **Andrewslayton/Andrewslayton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
