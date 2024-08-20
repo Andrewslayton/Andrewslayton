@@ -37,7 +37,7 @@
   <b>  392</b> commits
   <b>   13</b> pull requests reviewed
   <b>   29</b> pull requests opened
-  <b>    9</b> issues opened
+  <b>    7</b> issues opened
   <b>    3</b> issue comments
 </div>
 <div class="stdin"><span class="ps1-path">andrewslayton@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 39 repositories - 280 MB
@@ -48,7 +48,7 @@ dr-x  <b>    0</b>  packages
 dr-x         LICENSE
 -r--         └── GPL-3.0
 
-<span class="diff">@@ -319k +362k @@</span>
+<span class="diff">@@ -319k +357k @@</span>
 </div>
 <div class="stdin"><span class="ps1-path">andrewslayton@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>PYTHON      </b> [#######             ] 32.22%
 <b>TYPESCRIPT  </b> [####                ] 16.98%
