@@ -40,7 +40,7 @@
   <b>    5</b> issues opened
   <b>    4</b> issue comments
 </div>
-<div class="stdin"><span class="ps1-path">andrewslayton@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 40 repositories - 280 MB
+<div class="stdin"><span class="ps1-path">andrewslayton@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 40 repositories - 281 MB
 -r--  <b>    2</b>  stargazers
 -r--  <b>    0</b>  forks
 -r--  <b>   39</b>  watchers
