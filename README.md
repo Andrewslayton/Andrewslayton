@@ -15,8 +15,7 @@
 
 |  Who Am I?    | Why Computers?      | What Do I like Creating?     |
 |--------------|--------------|--------------|
-| Creativist, life seeker. | I like being able to build without limits where any idea is possible.   | I enjoy web development the most as well as random small applications I come up with on the fly, many of those being discord bots, game mode,
-mods, and random side projects. Recently i have been dabbling in embedded systems |
+| Creativist, life seeker. | I like being able to build without limits where any idea is possible.   | Web, embedded systems, game mods, and computer vision apps.  |
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
