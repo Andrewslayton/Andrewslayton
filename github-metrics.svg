@@ -48,7 +48,7 @@ dr-x  <b>    0</b>  packages
 dr-x         LICENSE
 -r--         └── GPL-3.0
 
-<span class="diff">@@ -320k +404k @@</span>
+<span class="diff">@@ -10k +88.3k @@</span>
 </div>
 <div class="stdin"><span class="ps1-path">andrewslayton@metrics</span>:<span class="ps1-location">~</span># ncal -MB5</div><div class="stdout"><div class="isocalendar">
             <svg version="1.1" xmlns="http://www.w3.org/2000/svg" style="margin-top: -130px;" viewBox="0,0 480,170">
@@ -978,9 +978,14 @@ dr-x         LICENSE
                       <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                       <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5.913043478260869 0,4.913043478260869 z"/>
                       <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4.913043478260869 1.7,5.913043478260869 z"/>
+                    </g>
+                    <g transform="translate(-1.7, 5.173913043478261)">
+                      <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                      <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.8260869565217392 0,2.8260869565217392 z"/>
+                      <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.8260869565217392 1.7,3.8260869565217392 z"/>
                     </g></g></g></svg></div>
-<b>    2</b> consecutive days with commits
-<b>~2.26</b> commits per day in average
+<b>    3</b> consecutive days with commits
+<b>~2.28</b> commits per day in average
 </div>
 
 
