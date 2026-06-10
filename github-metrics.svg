@@ -34,13 +34,13 @@
       </div>
 
 <pre><div class="stdin"><span class="ps1-path">andrewslayton@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
-  <b> 1122</b> commits
+  <b>  800</b> commits
   <b>   36</b> pull requests reviewed
   <b>  201</b> pull requests opened
   <b>    0</b> issues opened
   <b>   22</b> issue comments
 </div>
-<div class="stdin"><span class="ps1-path">andrewslayton@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 59 repositories - 309 MB
+<div class="stdin"><span class="ps1-path">andrewslayton@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 59 repositories - 310 MB
 -r--  <b>    0</b>  stargazers
 -r--  <b>    0</b>  forks
 -r--  <b>    0</b>  watchers
