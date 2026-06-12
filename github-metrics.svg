@@ -35,12 +35,12 @@
 
 <pre><div class="stdin"><span class="ps1-path">andrewslayton@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
   <b> 1122</b> commits
-  <b>   38</b> pull requests reviewed
+  <b>   39</b> pull requests reviewed
   <b>  201</b> pull requests opened
   <b>    0</b> issues opened
   <b>   22</b> issue comments
 </div>
-<div class="stdin"><span class="ps1-path">andrewslayton@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 59 repositories - 310 MB
+<div class="stdin"><span class="ps1-path">andrewslayton@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 59 repositories - 311 MB
 -r--  <b>   44</b>  stargazers
 -r--  <b>    2</b>  forks
 -r--  <b>   50</b>  watchers
@@ -959,10 +959,10 @@ dr-x         LICENSE
                       <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                       <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                     </g>
-                    <g transform="translate(-6.8, 9.806451612903226)">
+                    <g transform="translate(-6.8, 9.70967741935484)">
                       <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                      <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.193548387096774 0,1.1935483870967742 z"/>
-                      <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1935483870967742 1.7,2.193548387096774 z"/>
+                      <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.290322580645161 0,1.2903225806451613 z"/>
+                      <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2903225806451613 1.7,2.290322580645161 z"/>
                     </g></g></g></svg></div>
 <b>    1</b> consecutive day with commits
 <b>~2.43</b> commits per day in average
